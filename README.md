@@ -13,7 +13,7 @@ __High Level Findings:__
 * I found a daily cycle with peaks at noon and overnight, and valleys in the mornings and afternoons
 * I found that logins rose over the course of a week
 
-More detail can be found in this notebook: [Part 1: Exploratory Data Analysis on Logins][notebooks/Part%201%20Logins%20EDA.ipynb]
+More detail can be found in this notebook: [Part 1: Exploratory Data Analysis on Logins](notebooks/Part%201%20Logins%20EDA.ipynb)
 
 -------------
 
@@ -33,7 +33,7 @@ __High Level Proposal:__
 * Experiment re-imburses tolls only in the morning and evening, and only for cars without fares, since this risks the least of Ultimate's revenue
 * P-test with 95% confidence interval on an increase in Ultimate's profit per driver per shift
 
-For more detail see this notebook: [Part 2: Experiment and Metrics Design][notebooks/Part%202%20Experiment%20and%20Metrics%20Design.ipynb]
+For more detail see this notebook: [Part 2: Experiment and Metrics Design](notebooks/Part%202%20Experiment%20and%20Metrics%20Design.ipynb)
 
 -------------
 
@@ -55,4 +55,4 @@ __Selected Finding Highlights:__
 * Android users are less likely to be retained, so Ultimate might want to look into the usability and performance of their app on Android
 * Membership in Ultimate Black drives retention, so marketing it more might help
 
-For more detail see this notebook: [Part 3: Predictive Modeling][notebooks/Part%203%20Predictive%20Modeling.ipynb}
+For more detail see this notebook: [Part 3: Predictive Modeling](notebooks/Part%203%20Predictive%20Modeling.ipynb)
