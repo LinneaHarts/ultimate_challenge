@@ -2,7 +2,7 @@
 
 This repository contains my answers to the Ultimate Ride-Share coding challenge.
 
-More inforation can be found in [this explanatory pdf][https://github.com/LinneaHarts/ultimate_challenge/blob/master/ultimate_data_science_challenge.pdf]
+More inforation can be found in [this explanatory pdf](ultimate_data_science_challenge.pdf)
 
 ### Part 1: Exploratory data analysis ###
 
