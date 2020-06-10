@@ -2,7 +2,7 @@
 
 This repository contains my answers to the Ultimate Ride-Share coding challenge.
 
-More inforation can be found in [this explanatory pdf][ultimate_data_science_challenge.pdf]
+More inforation can be found in [this explanatory pdf][https://github.com/LinneaHarts/ultimate_challenge/blob/master/ultimate_data_science_challenge.pdf]
 
 ### Part 1: Exploratory data analysis ###
 
@@ -39,7 +39,7 @@ For more detail see this notebook: [Part 2: Experiment and Metrics Design][noteb
 
 ### Part 3: Predictive Modeling ###
 
-Ultimate is interested in predicting rider retention. To help explore this question, we have provided a sample dataset of a cohort of users who signed up for an Ultimate account in January 2014. The data was pulled several months later; we consider a user retained if they were ìactiveî (i.e. took a trip) in the preceding 30 days.
+Ultimate is interested in predicting rider retention. To help explore this question, we have provided a sample dataset of a cohort of users who signed up for an Ultimate account in January 2014. The data was pulled several months later; we consider a user retained if they were ‚Äúactive‚Äù (i.e. took a trip) in the preceding 30 days.
 
 We would like you to use this data set to help understand what factors are the best predictors for retention, and offer suggestions to operationalize those insights to help Ultimate. The data is in the attached file ultimate_data_challenge.json. See below for a detailed
 description of the dataset. Please include any code you wrote for the analysis and delete the dataset when you have finished with the challenge.
